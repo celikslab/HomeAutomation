@@ -2,5 +2,5 @@
 ## Arduino Ev Otomasyonu
 
 <p align="center">
-  <img width="400" height="350" src="https://github.com/mcelik7/HomeAutomationProject/blob/main/images/IMG_0084.JPG">
+  <img width="500" height="300" src="https://github.com/mcelik7/HomeAutomationProject/blob/main/images/IMG_0085.jpg">
 </p>
